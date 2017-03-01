@@ -6,13 +6,21 @@
 
 PlatformIO IDE se temelji na PlatformIO Core koji je napisan u Python programskom jeziku. Potrebno je skinuti i instalirati najnoviju verziju [Python 2.7.x](https://www.python.org/downloads/). **NAPOMENA:** Vodite računa da je prilikom instalacije potrebno kliknuti na `Add python.exe to Path` u "Customize" koraku, jer u protivnom `python` komanda neće biti dostupna u Command Promptu.
 
+![python-installer-add-path](https://cloud.githubusercontent.com/assets/8695815/23476700/f1482f08-febb-11e6-8786-ac2bbf17cb0b.png)
+
+
 - Nakon uspješne instalacije otvorite Command Prompt te upišite naredbu `python` čime testirate uspješnost instalacije:
 
 ```
 C:\Users\TONI FESB>python
 ```
 
-## 2. [PlatformIO](http://platformio.org/)
+## 2. [Clang](http://clang.llvm.org/)
+
+PlatformIO IDE upotrebljava [Clang](http://clang.llvm.org/). Da biste provjerili dostupnost u vašem OS-u, u Command Promptu upišite sljedeću naredbu: `clang --version`.
+Ako Clang nije instaliran na vašem računalu, skinite ga i instalirajte. Pri tome vodite računa da ste označili `Add LLVM to the system PATH` prilikom instalacije.
+
+## 3. [PlatformIO](http://platformio.org/)
 
 Skinite i instalirajte [Atom](https://atom.io/) text editor, na kojemu je izgrađen PlatformIO IDE.
 Otvorite Atom Package Manager te Instalirajte `platformio-ide` package (auto installer)
