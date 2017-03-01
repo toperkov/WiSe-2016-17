@@ -38,7 +38,7 @@ Preuzmite instalacijsku datoteku (verziju označenu sa Recommended For Most User
 
 Git klijent omogućuje jednostavno preuzimanje koda sa GitHub repozitorija. Testirajte instalaciju tako da pokušate klonirati repozitorij `https://github.com/toperkov/WiSe-2016-17.git`. U Git Bash komandnom prozoru izvršite sljedeće:
 
-```git
+```javascript
 # U osobnom direktoriju (npr. `C:/Users/Toni`) izvršite
 $ git clone https://github.com/toperkov/WiSe-2016-17.git labs-intro  
 $ cd labs-intro
