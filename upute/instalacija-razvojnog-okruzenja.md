@@ -18,4 +18,5 @@ Skinite i instalirajte [Atom](https://atom.io/) text editor, na kojemu je izgraÄ
 Otvorite Atom Package Manager te Instalirajte `platformio-ide` package (auto installer)
 Da biste to realizirali kliknite na: ``Menu: File > Settings > Install``
 
+![ide-atom-platformio-install](https://cloud.githubusercontent.com/assets/8695815/23476560/7080d942-febb-11e6-8e9c-f888d369efe0.png)
 
