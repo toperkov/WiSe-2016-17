@@ -30,3 +30,17 @@ Da biste to realizirali kliknite na: ``Menu: File > Settings > Install``
 
 ![ide-atom-platformio-install](https://cloud.githubusercontent.com/assets/8695815/23476560/7080d942-febb-11e6-8e9c-f888d369efe0.png)
 
+## 4. [Node.js](https://nodejs.org/en/)
+
+Preuzmite instalacijsku datoteku (verziju označenu sa Recommended For Most Users) te pokrenite instalaciju kao administrator. Testirajte vašu instalaciju upisivanjem `node` odnosno `npm` naredbi u Command Promptu.
+
+## 5. [Git klijent za Windows](https://git-for-windows.github.io/)
+
+Git klijent omogućuje jednostavno preuzimanje koda sa GitHub repozitorija. Testirajte instalaciju tako da pokušate klonirati repozitorij `https://github.com/toperkov/WiSe-2016-17.git`. U Git Bash komandnom prozoru izvršite sljedeće:
+
+```
+# U osobnom direktoriju (npr. `C:/Users/Toni`) izvršite
+$ git clone https://github.com/toperkov/WiSe-2016-17.git labs-intro  
+$ cd labs-intro
+$ ls
+```
