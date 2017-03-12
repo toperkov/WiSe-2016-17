@@ -12,4 +12,5 @@ Vježbe se temelje na [Arduino](https://www.arduino.cc) mikrokontroler platformi
 
 - [Instalacija razvojnog okruženja](https://github.com/toperkov/WiSe-2016-17/blob/master/upute/instalacija-razvojnog-okruzenja.md)
 - [Lab 1](https://github.com/toperkov/WiSe-2016-17-lab1)
-- Lab 2...
+- [Lab 2](https://github.com/toperkov/WiSe-2016-17-lab2)
+- Lab 3...
