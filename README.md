@@ -14,4 +14,5 @@ Vježbe se temelje na [Arduino](https://www.arduino.cc) mikrokontroler platformi
 - [Lab 1](https://github.com/toperkov/WiSe-2016-17-lab1)
 - [Lab 2](https://github.com/toperkov/WiSe-2016-17-lab2)
 - [Lab 3](https://github.com/toperkov/WiSe-2016-17-lab3)
-- Lab 4...
+- [Lab 4](https://github.com/toperkov/WiSe-2016-17-lab4)
+- Lab 5...
